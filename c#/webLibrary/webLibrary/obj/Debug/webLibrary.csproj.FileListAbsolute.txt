@@ -1,0 +1,2 @@
+C:\Users\29110\OneDrive\Desktop\projects\sql_desde_cero_@SQL-Server\c#\webLibrary\webLibrary\obj\Debug\webLibrary.csproj.AssemblyReference.cache
+C:\Users\29110\OneDrive\Desktop\projects\sql_desde_cero_@SQL-Server\c#\webLibrary\webLibrary\obj\Debug\webLibrary.csproj.CoreCompileInputs.cache
